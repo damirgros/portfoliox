@@ -16,8 +16,8 @@ export default function SiteHeader() {
   const { locale, setLocale, t, languages, languageLabels } = useLanguage();
 
   return (
-    <header className="sticky top-0 z-20 backdrop-blur-xl">
-      <div className="relative mx-auto flex max-w-6xl items-center justify-center px-6 py-5 text-sm text-slate-200 sm:px-8">
+    <header className="sticky top-0 z-20 h-[80px] backdrop-blur-xl">
+      <div className="relative mx-auto flex h-full max-w-6xl items-center justify-center px-6 text-sm text-slate-200 sm:px-8">
         <nav className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/5 px-4 py-2 text-sm backdrop-blur-xl shadow-[0_0_0_1px_rgba(255,255,255,0.05)] sm:gap-4">
           {navItems.map((item) => {
             const isActive = pathname === item.href;

@@ -2,7 +2,7 @@ const name = "DAMIR GROŠ";
 
 export default function Home() {
   return (
-    <section className="relative flex min-h-[calc(100vh-80px)] items-center justify-center px-6 py-16 sm:px-8">
+    <section className="relative flex min-h-[calc(100vh-80px)] items-center justify-center px-6 sm:px-8">
       <div className="relative z-10 flex w-full flex-col items-center justify-center text-center overflow-visible">
         <div className="flex flex-wrap justify-center gap-4 text-[clamp(5rem,16vw,10rem)] font-black uppercase leading-[0.8] tracking-[-0.08em] text-white whitespace-pre">
           {name.split("").map((letter, index) => (
