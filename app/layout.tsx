@@ -17,8 +17,7 @@ const spaceGrotesk = Space_Grotesk({
 
 export const metadata: Metadata = {
   title: "Damir Groš | Portfolio",
-  description:
-    "Portfolio website for Damir Groš with smooth page transitions and modern UI.",
+  description: "Portfolio website for Damir Groš, software developer.",
 };
 
 export default function RootLayout({

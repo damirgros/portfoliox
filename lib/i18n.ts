@@ -66,7 +66,7 @@ export const translations = {
         title: "Odabrani radovi.",
         descriptions: {
           medmax:
-            "Landing stranica zdravstvene aplikacije izrađena s Next.js i Tailwind CSS, s poliranim i responzivnim korisničkim iskustvom.",
+            "Landing stranica zdravstvene aplikacije izrađena s Next.js i Tailwind CSS, s ThreeJs animacijama.",
           chaton:
             "Platforma za društvenu mrežu izrađena s Reactom, TypeScriptom, Express.js i PostgreSQL-om, s real-time porukama i korisničkim profilima.",
           shopon:
@@ -79,12 +79,12 @@ export const translations = {
         title: "Alati i tehnologije.",
       },
       experience: {
-        title: "Odabrano iskustvo.",
+        title: "Dosadašnje iskustvo.",
         details: {
           frukFintech: {
-            1: "Razvijao sam i održavao napredne web aplikacije na frontend i backend strani.",
-            2: "Suradnja u planiranju, dizajnu, implementaciji i testiranju softverskih rješenja.",
-            3: "Isporučivao sam skalabilne aplikacije s fokusom na izvedbu i održivost.",
+            1: "Razvijao sam i održavao web aplikacije na frontendu i backendu.",
+            2: "Sudjelovao u planiranju, dizajnu, implementaciji i testiranju softverskih rješenja.",
+            3: "Isporučivao sam aplikacije, te sudjelovao u njihovom održavanju.",
           },
         },
       },
