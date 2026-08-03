@@ -66,7 +66,7 @@ export const translations = {
         title: "Odabrani radovi.",
         descriptions: {
           domus:
-            "Web stranica za vlasnike najma izrađena s Next.js, TypeScriptom i PostgreSQL-om, s upravljanjem nekretninama, stanarima, ugovorima o najmu i troškovima.",
+            "Web stranica za stanodavce izrađena s Next.js, TypeScriptom i PostgreSQL-om, s upravljanjem nekretninama, stanarima, ugovorima o najmu i troškovima.",
           medmax:
             "Landing stranica zdravstvene aplikacije izrađena s Next.js i Tailwind CSS, s ThreeJs animacijama.",
           chaton:
