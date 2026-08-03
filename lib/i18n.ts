@@ -19,12 +19,12 @@ export const translations = {
       projects: {
         title: "Selected work.",
         descriptions: {
+          domus:
+            "Website for rental owners built with Next.js, TypeScript, and PostgreSQL, featuring property, tenants, leases, and expenses management.",
           medmax:
             "Healthcare web application landing page built with Next.js and Tailwind CSS for a polished and responsive user experience.",
           chaton:
             "Social networking platform built with React, TypeScript, Express.js, and PostgreSQL, including real-time messaging and user profiles.",
-          shopon:
-            "E-commerce website built with Next.js, TypeScript, and MongoDB, featuring product management, checkout flow, and responsive design.",
           halvingHerald:
             "Bitcoin news aggregator created with Next.js and TypeScript, delivering a clean reading experience with up-to-date market insights.",
         },
@@ -65,12 +65,12 @@ export const translations = {
       projects: {
         title: "Odabrani radovi.",
         descriptions: {
+          domus:
+            "Web stranica za vlasnike najma izrađena s Next.js, TypeScriptom i PostgreSQL-om, s upravljanjem nekretninama, stanarima, ugovorima o najmu i troškovima.",
           medmax:
             "Landing stranica zdravstvene aplikacije izrađena s Next.js i Tailwind CSS, s ThreeJs animacijama.",
           chaton:
             "Platforma za društvenu mrežu izrađena s Reactom, TypeScriptom, Express.js i PostgreSQL-om, s real-time porukama i korisničkim profilima.",
-          shopon:
-            "E-commerce web stranica izrađena s Next.js, TypeScriptom i MongoDB-om, s upravljanjem proizvodima, checkout procesom i responzivnim dizajnom.",
           halvingHerald:
             "Agregator vijesti o Bitcoinu izrađen s Next.js i TypeScriptom, s čistim prikazom i ažurnim tržišnim podacima.",
         },
