@@ -30,6 +30,15 @@ export interface EducationItem {
 
 export const projects: Project[] = [
   {
+    title: "Domus",
+    description:
+      "Website for rental owners built with Next.js, TypeScript, and PostgreSQL, featuring property, tenants, leases and expanses management.",
+    descriptionKey: "pages.projects.descriptions.domus",
+    demoLink: "https://domus-mauve.vercel.app",
+    codeLink: "https://github.com/damirgros/domus",
+    tags: ["Next.js", "PostgreSQL", "TypeScript"],
+  },
+  {
     title: "Medmax",
     description:
       "Healthcare web application landing page built with Next.js and Tailwind CSS for a polished and responsive user experience.",
@@ -47,15 +56,6 @@ export const projects: Project[] = [
     demoLink: "https://chaton-server-bgsr.onrender.com",
     codeLink: "https://github.com/damirgros/chaton",
     tags: ["React", "Express.js", "PostgreSQL"],
-  },
-  {
-    title: "Shopon",
-    description:
-      "E-commerce website built with Next.js, TypeScript, and MongoDB, featuring product management, checkout flow, and responsive design.",
-    descriptionKey: "pages.projects.descriptions.shopon",
-    demoLink: "https://shopon-ten.vercel.app",
-    codeLink: "https://github.com/damirgros/shopon",
-    tags: ["Next.js", "MongoDB", "TypeScript"],
   },
   {
     title: "Halving Herald",
